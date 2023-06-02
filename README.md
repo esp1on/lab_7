@@ -8,11 +8,9 @@
 
 Для sortArray.py реализуем простенькую программу сортирующую заданный массив
 
-<img width="682" alt="Снимок экрана 2023-06-01 в 14 14 51" src="https://github.com/FUR1OUSS/TIMP_lab7/assets/82472327/285bcb2a-f5c6-4a52-beb4-c57d96d4b10c">
-
 А в файле Dockerfile реализуем следующий код
 
-<img width="682" alt="Снимок экрана 2023-06-01 в 14 16 56" src="https://github.com/FUR1OUSS/TIMP_lab7/assets/82472327/cf537cba-2fd8-4a02-b768-59ecaaee1f01">
+![image](https://github.com/esp1on/lab_7/assets/112684049/959b215d-a580-4e81-b463-3849e7c485a6)
 
 **Список команд докера**
 
